@@ -1,2 +1,9 @@
-# vitepress-blog
-vitepress-blog
+readme.md
+- 表格
+|  表头   | 表头  |
+|  ----  | ----  |
+| 单元格  | 单元格 |
+| 单元格  | 单元格 |
+
+##注意事项
+- 不要使用font标签，打包不识别font，会报错
